@@ -27,7 +27,7 @@ Karanlık mavi ve altın tonlarında tasarlanmış mistik arayüzüyle, kullanı
 
 ## İletişim
 📩 **E-posta:** apponeiros@gmail.com
-🌐 **Destek Sayfası:** [[https://yasemin-ozge.github.io/oneiroi-support](https://yasemin-ozge.github.io/oneiroi-support)](https://github.com/yozgebulut/Oneiroi)
+🌐 **Destek Sayfası:** https://github.com/yaseminozgeozbek/Oneiroi
 
 ---
 
