@@ -1,6 +1,6 @@
 # Oneiroi
 
-AI destekli rüya analizi ve meditasyon uygulaması.
+✨ *“Every dream hides a message — Oneiroi helps you listen.”*  
 
 Oneiroi, alanında eğitilmiş 3 uzman rüya tabircisi ile rüyalarınızı yapay zeka ile analiz eden ve kişisel farkındalığınızı artırmak için meditasyon araçları sunan bir bilinç keşif uygulamasıdır. 
 Karanlık mavi ve altın tonlarında tasarlanmış mistik arayüzüyle, kullanıcıya sakin ve sezgisel bir deneyim sunar.
