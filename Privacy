@@ -1,0 +1,96 @@
+# GİZLİLİK POLİTİKASI  
+
+**Yürürlük Tarihi:** 14 Ekim 2025  
+
+---
+
+## Giriş
+Bu Gizlilik Politikası, **Yasemin Özge Özbek** tarafından geliştirilen **Oneiroi** mobil uygulamasının kullanıcılarının kişisel verilerinin nasıl toplandığını, kullanıldığını, paylaşıldığını ve korunduğunu açıklar.  
+
+Uygulamayı kullanarak bu Gizlilik Politikasında belirtilen koşulları kabul etmiş olursunuz.
+
+---
+
+## Toplanan Veriler
+Oneiroi, hizmet kalitesini artırmak ve kişiselleştirilmiş bir deneyim sunmak amacıyla aşağıdaki verileri toplayabilir:
+
+- Ad Soyad, e-posta adresi ve kullanıcı kimliği  
+- Rüya metinleri, meditasyon kayıtları ve uygulama içi etkileşimler  
+- Cihaz bilgileri (model, işletim sistemi, IP adresi)  
+- Uygulama performansı, hata kayıtları ve kullanım istatistikleri  
+
+---
+
+## Verilerin Kullanım Amaçları
+Toplanan veriler aşağıdaki amaçlarla kullanılabilir:
+
+- Yapay zekâ destekli rüya analizi hizmetini sunmak  
+- Meditasyon hatırlatıcıları ve bildirimleri planlamak  
+- Hata ayıklama, performans analizi ve kullanıcı deneyimini iyileştirmek  
+- Kullanıcının isteğiyle hesabını yönetmek veya destek taleplerine yanıt vermek  
+
+---
+
+## Üçüncü Taraf Hizmetler
+Oneiroi, aşağıdaki üçüncü taraf hizmetleri kullanabilir. Bu hizmetler kendi gizlilik politikalarına tabidir:
+
+- **Firebase** – Kimlik doğrulama, veri saklama, analiz ve hata takibi  
+- **OpenAI API** – Rüya yorumlarının yapay zekâ ile oluşturulması  
+- **Apple Sign-In / Google Sign-In** – Hesap oluşturma ve giriş işlemleri  
+
+---
+
+## Verilerin Saklanması ve Güvenliği
+Kullanıcı verileri güvenli biçimde **Firestore** üzerinde saklanır.  
+Tüm veriler şifreli bağlantılar (**SSL/TLS**) aracılığıyla aktarılır.  
+**Yasemin Özge Özbek**, kişisel verilerin yetkisiz erişim, kayıp veya kötüye kullanılmasına karşı uygun teknik önlemleri almaktadır.  
+
+---
+
+## Verilerin Paylaşılması
+Kullanıcı verileri yalnızca:
+- Yasal zorunluluk durumlarında, veya  
+- Kullanıcının açık onayıyla üçüncü taraflarla paylaşılabilir.  
+
+Kullanıcı rüya içerikleri, anonimleştirilmiş biçimde araştırma veya analiz amacıyla kullanılabilir.  
+
+---
+
+## Kullanıcı Hakları
+Kullanıcılar, ilgili veri koruma yasaları (**KVKK**, **GDPR** vb.) kapsamında şu haklara sahiptir:
+
+- Kişisel verilerine erişim talep etme  
+- Verilerinin düzeltilmesini veya silinmesini isteme  
+- Veri işleme faaliyetlerine itiraz etme  
+- Hesabını silme veya uygulamadan ayrılma hakkı  
+
+---
+
+## Veri Saklama Süresi
+Kullanıcı verileri, uygulamanın hizmet sunması için gerekli olduğu süre boyunca veya yasal yükümlülükler gereğince saklanır.  
+Kullanıcı hesabını sildiğinde, ilgili veriler makul bir süre içinde tamamen kaldırılır.  
+
+---
+
+## Çocukların Gizliliği
+Oneiroi, **16 yaşın altındaki** çocuklardan bilerek kişisel bilgi toplamaz.  
+Eğer yanlışlıkla böyle bir bilgi toplanmışsa, ebeveyn veya yasal vasiler bizimle iletişime geçerek verilerin silinmesini talep edebilir.  
+
+---
+
+## Politikada Değişiklikler
+Bu Gizlilik Politikası zaman zaman güncellenebilir.  
+Güncellenmiş sürüm, uygulama içinde yayımlandığında yürürlüğe girer.  
+
+---
+
+## İletişim
+Gizlilikle ilgili her türlü soru, talep ve şikayet için bizimle iletişime geçebilirsiniz:
+
+- **E-posta:** [apponeiros@gmail.com](mailto:apponeiros@gmail.com)  
+- **Geliştirici:** Yasemin Özge Özbek  
+- **Uygulama Adı:** Oneiroi  
+
+---
+
+© **2025 Yasemin Özge Özbek — Tüm Hakları Saklıdır.**
