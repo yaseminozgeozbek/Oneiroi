@@ -2,9 +2,9 @@
 {
   "name": "oneiroi",
   "version": "1.0.0",
-  "description": "Basit bir Node.js uygulaması",
-  "main": "index.js",
+  "description": "Basit bir Node.ts uygulaması",
+  "main": "index.ts",
   "scripts": {
-    "start": "node index.js" 
+    "start": "node index.ts" 
   }
 }
